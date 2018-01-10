@@ -1,0 +1,7 @@
+			<-		Left
+			->		Right
+			|		Put Down
+			Space		Rotate
+			P       	Pause
+			ESC		Exit
+
